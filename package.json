@@ -40,7 +40,7 @@
     "object-keys": "^1.1.1",
     "os": "^0.1.1",
     "path": "^0.12.7",
-    "pug": "2.0.0-beta11",
+    "pug": "3.0.1",
     "querystringify": "^2.1.1",
     "requires-port": "^1.0.0",
     "should": "^13.2.3",
